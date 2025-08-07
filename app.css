@@ -10,6 +10,16 @@ body {
     color:black;
 }
 
+.second-heading {
+    font-size: 48px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #FDFDFD;
+    color: darkgreen;
+    padding: 10px;
+    border-radius: 5px;
+}
+
 a {
     text-decoration: none;
 }
