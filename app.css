@@ -14,12 +14,26 @@ body {
     font-size: 48px;
     margin-top: 20px;
     margin-bottom: 20px;
-    background-color: #FDFDFD;
+    background-color: #F7E7CE;
     color: darkgreen;
     padding: 10px;
     border-radius: 5px;
+    width: 1200px;
+    font-weight: 400;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #ccc;
 }
 
 a {
     text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
 }
